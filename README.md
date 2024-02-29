@@ -1,5 +1,10 @@
 ### Hi there 👋
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Perseus333&theme=aura_dark&rank_icon=github&show_icons=true)](https://github.com/Perseus333/github-readme-stats">
+</div>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Perseus333&langs_count=8&layout=compact&card_width=495&size_weight=0.2&count_weight=0.8&theme=aura_dark)](https://github.com/Perseus333/github-readme-stats)
 <!--
 **Perseus333/Perseus333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
