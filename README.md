@@ -14,6 +14,8 @@ I also quite enjoy collaborative projects, so if you have an idea contact me at:
 
 **Wanting to learn:**
 - C: For embeded systems
+- Rust: For the memes
+- Assembly: Looks fun
 
 <h1>My stats</h1>
 
