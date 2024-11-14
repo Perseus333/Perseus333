@@ -7,9 +7,6 @@ I also quite enjoy collaborative projects, so if you have an idea contact me at:
 
 ### Personal Website: https://perseus333.github.io/
 
->[!Warning]
->Under construction
-
 # ㅤ
 
 **Languages that I've worked with:**
