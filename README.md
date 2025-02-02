@@ -5,7 +5,7 @@
 I also quite enjoy collaborative projects, so if you have an idea contact me at: perseusmith73@gmail.com
 
 
-### Personal Website: https://perseus333.github.io/
+### Personal Website: https://perseuslynx.dev
 
 # ㅤ
 
