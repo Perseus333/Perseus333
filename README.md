@@ -1,9 +1,6 @@
 ### Hello there 👋
 
-*I'm a hobbyist programmer interested in all kinds of stuff except JavaScript.* 
-
-I also quite enjoy collaborative projects, so if you have an idea contact me at: perseusmith73@gmail.com
-
+*I'm a hobbyist programmer interested in all kinds of stuff except JavaScript.*
 
 ### Personal Website: https://perseuslynx.dev
 
